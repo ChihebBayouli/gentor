@@ -1,7 +1,7 @@
 # Gentor
 
 Gentor is a utility that allows users to make their internet traffic anonymized through Tor network with minimal effort. It's easy to use and gives the user maximum control.
-Acting as a transparent system proxy, DNS requests are also redirected via tor, thus preventing DNSLeak. It also disables unsafe packets exiting the system
+Acting as a transparent system proxy, DNS requests are also redirected via tor. It also disables unsafe packets exiting the system
 
 # Installing GenTor
 
