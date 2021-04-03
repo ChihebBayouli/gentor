@@ -6,7 +6,7 @@ Acting as a transparent system proxy, DNS requests are also redirected via tor. 
 # Installing GenTor
 
     wget https://github.com/ChihebBayouli/Binary/releases/download/0.3/install.bin
-    chmod +x install.bin
+    chmod +x setup.bin
     sudo ./install.bin
 
 # Quick start
