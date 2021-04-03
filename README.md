@@ -7,7 +7,7 @@ Acting as a transparent system proxy, DNS requests are also redirected via tor. 
 
     wget https://github.com/ChihebBayouli/Binary/releases/download/0.3/install.bin
     chmod +x setup.bin
-    sudo ./install.bin
+    sudo ./setup.bin
 
 # Quick start
 To get started, simply execute gentor and follow the instructions:
