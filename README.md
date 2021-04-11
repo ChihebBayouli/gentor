@@ -32,5 +32,5 @@ To get started, simply execute gentor and follow the instructions:
 
 ## Licensing
 
-Gentor is a closed-source program.
+Gentor is a free closed-source program.
 You can find the license for the main Gentor Program in this repo (we assume that if you are using the app you agree to the terms laid out in the license file)
