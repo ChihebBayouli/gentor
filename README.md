@@ -29,6 +29,7 @@ To get started, simply execute gentor and follow the instructions:
       -e, --enable          Enable anonymization at boot time
       -d, --disable         Disable anonymization at boot time
       -u, --uninstall       Uninstall GenTor
+      -l, --fix              Fix connecting problem
 
 ## Licensing
 
