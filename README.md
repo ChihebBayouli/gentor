@@ -5,7 +5,7 @@ Acting as a transparent system proxy, DNS requests are also redirected via tor. 
 
 # Installing GenTor
 
-    wget https://github.com/ChihebBayouli/Gentor/releases/download/v0.1/setup.bin
+    wget https://github.com/ChihebBayouli/Gentor/releases/download/v0.2/setup.bin
     chmod +x setup.bin
     sudo ./setup.bin
 
@@ -21,17 +21,17 @@ To get started, simply execute gentor and follow the instructions:
       -s, --start           Start connecting to Tor
       -x, --stop            Stop connecting to Tor
       -r, --renew           Renew the current Tor circuit
-      -id COUNTRY ISO CODE  Connect to Tor exit node of a specific country
+      --period              Renew the current Tor circuit every prompted period
       -mac INTERFACE        Randomly change MAC address
       -c, --checkip         Check your current IPv4 address
       --dns                 Use this to fix DNS
       --nodelay             Disable delay time
       -e, --enable          Enable anonymization at boot time
       -d, --disable         Disable anonymization at boot time
-      -u, --uninstall       Uninstall GenTor
       -l, --fix              Fix connecting problem
+      -u, --uninstall       Uninstall GenTor
 
 ## Licensing
 
 Gentor is a free closed-source program.
-You can find the license for the main Gentor Program in this repo (we assume that if you are using the app you agree to the terms laid out in the license file)
+You can find the license for the Gentor Program in this repo (we assume that if you are using the app you agree to the terms laid out in the license file)
